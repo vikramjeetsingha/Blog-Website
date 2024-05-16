@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vikramjeet Blogs</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body class="body_container">
+
+    <div class="container">
+
+        <header class="header_container">
+            <h1 class="header_title"> Vikramjeet Blogs</h1>
+            <p class="header_desc">
+                "Vikram's Voice: Insights, Ideas, and Inspiration"
+            </p>
+        </header>
+
+        <main class="main_container">
+
+            <!-- card 1 start -->
+            <div class="card_container">
+                <a href="https://thegadgetflow.com/blog/" class="card_image_container">
+                    <img
+                        src="https://source.unsplash.com/random/600×400?technology"
+                        alt="card 1 image"
+                        class="card_image"
+                        loading="lazy"
+                    />
+                </a>
+
+                <div class="card_title_container">
+                    <a href="https://thegadgetflow.com/blog/" class="card_title_anchor">
+                        <h2 class="card_title">New Gadgets Released</h2>
+                    </a>
+                    <p class="card_desc">
+                        Check out the latest tech gadgets hitting the market, from smartphones to smartwatches.
+                    </p>
+                </div>
+
+                <div class="card_footer_container">
+
+                    <div class="author_container">
+                        <div class="author_avatar_container">
+                            <img 
+                                src="https://api.dicebear.com/7.x/notionists/svg?seed=Lauren?size=64"
+                                loading="lazy"
+                                class="author_avatar"
+                                alt="avatar 1"
+                            />
+                        </div>
+                        <div class="author_info_container">
+                            <span class="author_name">
+                                Lauren Wadowsky
+                            </span>
+                            <span class="author_date">
+                                May 1, 2024
+                            </span>
+                        </div>
+                    </div>
+
+                    <div >
+                        <span class="card_tag_container">Technology</span>
+                    </div>
+                </div>
+            </div>
+            <!-- card 1 ends here -->
+
+            <div class="card_container">
+                <a href="https://isha.sadhguru.org/en/wisdom/article/eating-healthy-tips-how-when-what-to-eat" class="card_image_container">
+                    <img
+                        src="https://source.unsplash.com/random/600×400?nutrition"
+                        alt="card 1 image"
+                        class="card_image"
+                        loading="lazy"
+                    />
+                </a>
+
+                <div class="card_title_container">
+                    <a href="https://isha.sadhguru.org/en/wisdom/article/eating-healthy-tips-how-when-what-to-eat" class="card_title_anchor">
+                        <h2 class="card_title">Healthy Eating Tips</h2>
+                    </a>
+                    <p class="card_desc">
+                       Discover simple tips for mantaining a healthy diet and making nutritious food choices.
+                    </p>
+                </div>
+
+                <div class="card_footer_container">
+
+                    <div class="author_container">
+                        <div class="author_avatar_container">
+                            <img 
+                                src="https://api.dicebear.com/7.x/notionists/svg?seed=Sadhguru?size=64"
+                                loading="lazy"
+                                class="author_avatar"
+                                alt="avatar 1"
+                            />
+                        </div>
+                        <div class="author_info_container">
+                            <span class="author_name">
+                                Sadhguru
+                            </span>
+                            <span class="author_date">
+                                August 19, 2021
+                            </span>
+                        </div>
+                    </div>
+
+                    <div >
+                        <span class="card_tag_container">Nutrition</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card_container">
+                <a href="https://wanderlustphotosblog.com/2023/08/01/a-look-at-my-travel-bucket-list-2023-edition/" class="card_image_container">
+                    <img
+                        src="https://source.unsplash.com/random/600×400?travel"
+                        alt="card 1 image"
+                        class="card_image"
+                        loading="lazy"
+                    />
+                </a>
+
+                <div class="card_title_container">
+                    <a href="https://wanderlustphotosblog.com/2023/08/01/a-look-at-my-travel-bucket-list-2023-edition/" class="card_title_anchor">
+                        <h2 class="card_title">Travel Bucket List</h2>
+                    </a>
+                    <p class="card_desc">
+                       Explore breathtaking destinations and add them to your travel bucket list for an unforgettable adventure.
+                    </p>
+                </div>
+
+                <div class="card_footer_container">
+
+                    <div class="author_container">
+                        <div class="author_avatar_container">
+                            <img 
+                                src="https://api.dicebear.com/7.x/notionists/svg?seed=Josh?size=64"
+                                loading="lazy"
+                                class="author_avatar"
+                                alt="avatar 1"
+                            />
+                        </div>
+                        <div class="author_info_container">
+                            <span class="author_name">
+                                Josh Hewitt
+                            </span>
+                            <span class="author_date">
+                                August 1, 2023
+                            </span>
+                        </div>
+                    </div>
+
+                    <div >
+                        <span class="card_tag_container">Travel</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card_container">
+                <a href="https://traqq.com/blog/the-ultimate-guide-on-time-management/" class="card_image_container">
+                    <img
+                        src="https://source.unsplash.com/random/600×400?productivity"
+                        alt="card 1 image"
+                        class="card_image"
+                        loading="lazy"
+                    />
+                </a>
+
+                <div class="card_title_container">
+                    <a href="https://traqq.com/blog/the-ultimate-guide-on-time-management/" class="card_title_anchor">
+                        <h2 class="card_title">Effective Time Management</h2>
+                    </a>
+                    <p class="card_desc">
+                      Learn Time Management techniques to boost productivity and balance work and personal life.
+                    </p>
+                </div>
+
+                <div class="card_footer_container">
+
+                    <div class="author_container">
+                        <div class="author_avatar_container">
+                            <img 
+                                src="https://api.dicebear.com/7.x/notionists/svg?seed=Peter?size=64"
+                                loading="lazy"
+                                class="author_avatar"
+                                alt="avatar 1"
+                            />
+                        </div>
+                        <div class="author_info_container">
+                            <span class="author_name">
+                              Peter Gichuki
+                            </span>
+                            <span class="author_date">
+                               January 10, 2024
+                            </span>
+                        </div>
+                    </div>
+
+                    <div >
+                        <span class="card_tag_container">Productivity</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card_container">
+                <a href="https://www.linkedin.com/pulse/art-mindfulness-path-inner-peace-well-being-abhay-jarsaniya/" class="card_image_container">
+                    <img
+                        src="https://source.unsplash.com/random/600×400?mindfulness"
+                        alt="card 1 image"
+                        class="card_image"
+                        loading="lazy"
+                    />
+                </a>
+
+                <div class="card_title_container">
+                    <a href="https://www.linkedin.com/pulse/art-mindfulness-path-inner-peace-well-being-abhay-jarsaniya/" class="card_title_anchor">
+                        <h2 class="card_title">Art of Mindfulness</h2>
+                    </a>
+                    <p class="card_desc">
+                       Discover the power of mindfulness meditation for reducing stress and improving mental well-being.
+                    </p>
+                </div>
+
+                <div class="card_footer_container">
+
+                    <div class="author_container">
+                        <div class="author_avatar_container">
+                            <img 
+                                src="https://api.dicebear.com/7.x/notionists/svg?seed=Abhay?size=64"
+                                loading="lazy"
+                                class="author_avatar"
+                                alt="avatar 1"
+                            />
+                        </div>
+                        <div class="author_info_container">
+                            <span class="author_name">
+                                Abhay Jarsaniya
+                            </span>
+                            <span class="author_date">
+                                September 21, 2023
+                            </span>
+                        </div>
+                    </div>
+
+                    <div >
+                        <span class="card_tag_container">Mindfulness</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card_container">
+                <a href="https://www.creativehomecrafts.com/diy-home-decorating-blogs/" class="card_image_container">
+                    <img
+                        src="https://source.unsplash.com/random/600×400?homedecor"
+                        alt="card 1 image"
+                        class="card_image"
+                        loading="lazy"
+                    />
+                </a>
+
+                <div class="card_title_container">
+                    <a href="https://www.creativehomecrafts.com/diy-home-decorating-blogs/" class="card_title_anchor">
+                        <h2 class="card_title">DIY Home Decor</h2>
+                    </a>
+                    <p class="card_desc">
+                       Get creative with DIY home decor projetcs that will tranform your living space on a budget.
+                    </p>
+                </div>
+
+                <div class="card_footer_container">
+
+                    <div class="author_container">
+                        <div class="author_avatar_container">
+                            <img 
+                                src="https://api.dicebear.com/7.x/notionists/svg?seed=Laura?size=64"
+                                loading="lazy"
+                                class="author_avatar"
+                                alt="avatar 1"
+                            />
+                        </div>
+                        <div class="author_info_container">
+                            <span class="author_name">
+                               Laura Brown 
+                            </span>
+                            <span class="author_date">
+                              August 30, 2023
+                            </span>
+                        </div>
+                    </div>
+
+                    <div >
+                        <span class="card_tag_container">Home Decor</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card_container">
+                <a href="https://www.greenmatch.co.uk/blog/how-to-be-more-eco-friendly" class="card_image_container">
+                    <img
+                        src="https://source.unsplash.com/random/600×400?healthy"
+                        alt="card 1 image"
+                        class="card_image"
+                        loading="lazy"
+                    />
+                </a>
+
+                <div class="card_title_container">
+                    <a href="https://www.greenmatch.co.uk/blog/how-to-be-more-eco-friendly" class="card_title_anchor">
+                        <h2 class="card_title">Green Energy Solutions</h2>
+                    </a>
+                    <p class="card_desc">
+                      Explore eco friendly energy solutions for a sustainable future and reducing your cartoon footprint.
+                    </p>
+                </div>
+
+                <div class="card_footer_container">
+
+                    <div class="author_container">
+                        <div class="author_avatar_container">
+                            <img 
+                                src="https://api.dicebear.com/7.x/notionists/svg?seed=Ciaran?size=64"
+                                loading="lazy"
+                                class="author_avatar"
+                                alt="avatar 1"
+                            />
+                        </div>
+                        <div class="author_info_container">
+                            <span class="author_name">
+                                Ciaran Wark
+                            </span>
+                            <span class="author_date">
+                                May 8, 2024
+                            </span>
+                        </div>
+                    </div>
+
+                    <div >
+                        <span class="card_tag_container">Sustainability</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card_container">
+                <a href="https://www.positivityblog.com/about/" class="card_image_container">
+                    <img
+                        src="https://source.unsplash.com/random/600×400?sustainability"
+                        alt="card 1 image"
+                        class="card_image"
+                        loading="lazy"
+                    />
+                </a>
+
+                <div class="card_title_container">
+                    <a href="https://www.positivityblog.com/about/" class="card_title_anchor">
+                        <h2 class="card_title">The Power of Positivity</h2>
+                    </a>
+                    <p class="card_desc">
+                       Discover how a positive mindset can improve your life and lead to greater happiness and success.
+                    </p>
+                </div>
+
+                <div class="card_footer_container">
+
+                    <div class="author_container">
+                        <div class="author_avatar_container">
+                            <img 
+                                src="https://api.dicebear.com/7.x/notionists/svg?seed=Henrik?size=64"
+                                loading="lazy"
+                                class="author_avatar"
+                                alt="avatar 1"
+                            />
+                        </div>
+                        <div class="author_info_container">
+                            <span class="author_name">
+                                Henrik Edberg
+                            </span>
+                            <span class="author_date">
+                              April 30, 2024
+                            </span>
+                        </div>
+                    </div>
+
+                    <div  >
+                        <span class="card_tag_container">Positivity</span>
+                    </div>
+                </div>
+            </div>
+        </main>
+
+    </div>
+    
+</body>
+</html>
+<!-- 
+
+https://api.dicebear.com/7.x/notionists/svg?seed=John?size=64
+https://source.unsplash.com/random/600×400?healthy -->
+</body>
+</html>
